@@ -4,4 +4,4 @@ for I in `ls`; do
 	echo "$I"
 done
 exit
-#TODO things
+#TODO things and more
